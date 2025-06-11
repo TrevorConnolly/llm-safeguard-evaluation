@@ -1,7 +1,7 @@
 <!-- markdownlint-disable first-line-h1 -->
 <!-- markdownlint-disable html -->
 
-See Paper attached here: 
+<h1 align="center">See Paper attached here: https://github.com/TrevorConnolly/llm-safeguard-evaluation/blob/main/Instructions_for_ACL_2023_Proceedings.pdf</h1>
 
 Booster Codebase is included in this repository. Original ReadMe attached below.
 
