@@ -1,11 +1,11 @@
 <!-- markdownlint-disable first-line-h1 -->
 <!-- markdownlint-disable html -->
 
-<h1 align="center">See Paper attached here:</h1> 
+<h1>See Paper attached here:</h1> 
 
 <h2> https://github.com/TrevorConnolly/llm-safeguard-evaluation/blob/main/Instructions_for_ACL_2023_Proceedings.pdf </h2> 
 
-Booster Codebase is included in this repository. Original ReadMe attached below.
+<h2> Booster Codebase is included in this repository. Original ReadMe attached below. </h2>
 
 <h1 align="center">Booster: Tackling Harmful Fine-tuning for Large Language Models via Attenuating Harmful Perturbation</h1>
 
