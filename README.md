@@ -1,6 +1,10 @@
 <!-- markdownlint-disable first-line-h1 -->
 <!-- markdownlint-disable html -->
 
+See Paper attached here: 
+
+Booster Codebase is included in this repository. Original ReadMe attached below.
+
 <h1 align="center">Booster: Tackling Harmful Fine-tuning for Large Language Models via Attenuating Harmful Perturbation</h1>
 
 [[`📕 Paper`](https://arxiv.org/pdf/2409.01586)] [[`Homepage`](https://huangtiansheng.github.io/Booster_gh_page/)] [[`🤗 Alignment dataset`](https://huggingface.co/datasets/anonymous4486/booster_dataset)]
